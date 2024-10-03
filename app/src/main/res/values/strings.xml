@@ -1,0 +1,18 @@
+<resources>
+    <string name="Tap_lemon_tree_to_select_a_lemon">Lemonade</string>
+    <string name="Keep_tapping_the_lemon_to_squeeze_it">Lemonade</string>
+    <string name="Tap_the_lemonade_to_drink_it">Lemonade</string>
+    <string name="Tap_the_empty_glass_start_again">Lemonade</string>
+    <string name="Lemon_tree">Lemon_content_description</string>
+    <string name="Lemon">Lemon_content_description</string>
+    <string name="Glass_of_lemonade">Lemon_content_description</string>
+    <string name="Empty_glass">Lemon_content_description</string>
+    <string name="lemon_select">lemon_select</string>
+    <string name="lemon_tree_content_description">lemon_tree_content_description</string>
+    <string name="lemon_squeeze">lemon_squeeze</string>
+    <string name="lemon_content_description">lemon_content_description</string>
+    <string name="lemon_drink">lemon_drink</string>
+    <string name="lemonade_content_description">lemonade_content_description</string>
+    <string name="lemon_empty_glass">lemon_empty_glass</string>
+    <string name="empty_glass_content_description">empty_glass_content_description</string>
+</resources>
